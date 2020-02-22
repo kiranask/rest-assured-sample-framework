@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1984" started-at="2020-02-22T14:33:44Z" finished-at="2020-02-22T14:33:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1984" started-at="2020-02-22T14:33:44Z" finished-at="2020-02-22T14:33:46Z">
+      <class name="Library.com.AddBook">
+        <test-method status="PASS" signature="addBookTest(java.lang.String, java.lang.String)[pri:0, instance:Library.com.AddBook@6a4f787b]" name="addBookTest" duration-ms="1765" started-at="2020-02-22T20:03:44Z" data-provider="BooksData" finished-at="2020-02-22T20:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookTest -->
+        <test-method status="PASS" signature="addBookTest(java.lang.String, java.lang.String)[pri:0, instance:Library.com.AddBook@6a4f787b]" name="addBookTest" duration-ms="99" started-at="2020-02-22T20:03:46Z" data-provider="BooksData" finished-at="2020-02-22T20:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[101]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookTest -->
+        <test-method status="PASS" signature="addBookTest(java.lang.String, java.lang.String)[pri:0, instance:Library.com.AddBook@6a4f787b]" name="addBookTest" duration-ms="105" started-at="2020-02-22T20:03:46Z" data-provider="BooksData" finished-at="2020-02-22T20:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[102]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookTest -->
+      </class> <!-- Library.com.AddBook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
