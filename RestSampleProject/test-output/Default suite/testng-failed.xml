@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="Library.com.AddBook">
+      <class name="Library.com.StaticJson">
         <methods>
           <include name="addBookTest"/>
         </methods>
-      </class> <!-- Library.com.AddBook -->
+      </class> <!-- Library.com.StaticJson -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
